@@ -8,6 +8,6 @@ There are different kinds of attrition:
 3) Internal Attrition	
 4) Demographic-specific Attrition
 
-The following Tableau dashboard is the demostration of Attrition Analytics.
+The following Tableau dashboard is a demostration of Attrition Analytics.
 
 <img width="1439" alt="Screenshot 2022-12-23 at 10 04 22 AM" src="https://user-images.githubusercontent.com/105503399/209356879-5712a059-b829-4812-bbc8-d3483e817346.png">
