@@ -1,5 +1,6 @@
+
 # Tableau_HR-Analytics
-What Is An Attrition Rate?\
+What Is An Attrition Rate? \
 Commonly referred to as a ‘churn rate,’ a company’s attrition rate is the rate at which people leave. \
 There are different kinds of attrition:
 1) Voluntary Attrition	
